@@ -1,0 +1,7 @@
+{
+  "name": "Synapse Second Brain",
+  "description": "Your professional digital sanctuary for knowledge management, self-study, and cognitive organization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
